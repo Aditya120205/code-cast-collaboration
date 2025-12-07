@@ -8,11 +8,12 @@
 - Multi-user support with role-based access  
 - Secure and scalable infrastructure  
 
-## Usage
--Open your browser and navigate to http://localhost:3000 (From server side)
--Open the port your app is running on(From Client side)
--Invite collaborators using the session link
--Start coding and debugging in real-time
+## Usage 
+- Open your browser and navigate to http://localhost:3000 (From server side)
+- Open the port your app is running on(From Client side)
+- Add an .env file in client with "VITE_BACKEND_URL=http://localhost:3000"
+- Invite collaborators using the session link
+- Start coding and debugging in real-time
 
 ## Installation  
 1. Clone the repository:  
