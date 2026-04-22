@@ -5,7 +5,7 @@
 ## Features  
 - Real-time collaborative coding  
 - Live debugging and code execution  
-- Multi-user support with role-based access  
+- Multi-user support with role-based access 
 - Secure and scalable infrastructure  
 
 ## Usage 
